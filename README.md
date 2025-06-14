@@ -120,10 +120,6 @@ CREATE TABLE items (
 - Multi-location inventory
 - Advanced reporting and analytics
 
-## Author
-
-Created as a 5th semester project demonstrating web development skills with Flask and database management.
-
 ## License
 
 This project is open source and available under the MIT License.
