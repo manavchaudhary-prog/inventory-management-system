@@ -55,26 +55,6 @@ inventory-management-system/
    http://localhost:5000
    ```
 
-### Deployment Options
-
-#### Render (Recommended)
-1. Upload code to GitHub repository
-2. Connect to Render.com
-3. Create new Web Service
-4. Settings:
-   - Build Command: `pip install -r requirements.txt`
-   - Start Command: `python app.py`
-
-#### Railway
-1. Upload to GitHub
-2. Connect to Railway.app
-3. Deploy directly from repository
-
-#### PythonAnywhere
-1. Upload files to your account
-2. Configure web app to point to `app.py`
-3. Install dependencies in console
-
 ## Usage
 
 ### Adding Items
